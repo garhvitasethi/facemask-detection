@@ -14,6 +14,7 @@ The web app takes an image of a person as input and returns whether the person i
 1. Python
 2. Numpy
 3. Tensorflow
+4. OpenCV-Python
 
 ## Live Link
 https://facemask-ds.herokuapp.com/
