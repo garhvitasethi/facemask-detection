@@ -39,4 +39,4 @@ https://facemask-ds.herokuapp.com/
 ## Novelty
 1. Detecting face mask using an image, can also be extended to detect it in a video stream
 2. Detecting if many people in a crowd are wearing masks or not
-3. Confidence is calcuated( probability associated with the detection) and threshold can be customized to filter out weak detections
+3. Confidence is calcuated (probability associated with the detection) and threshold can be customized to filter out weak detections
